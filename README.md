@@ -1,9 +1,26 @@
-<h1 align="center">Hi 👋, I'm eGheller</h1>
+<h1>Welcome! Nice to meet you.</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I'm Eduardo, a developer currently living in Florianópolis, SC area, Brazil.
+
+<h3 align="left">Languages and Tools I know and work with:</h3>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491e6?logo=docker&logoColor=white" /> 
+  <img alt="Git" src="https://img.shields.io/badge/-Git-e94e31?logo=git&logoColor=white" /> 
+  <img alt="GitHub (+API)" src="https://img.shields.io/badge/-GitHub%20(%2BAPI)-24282e?logo=github&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="HTML 5" src="https://img.shields.io/badge/-HTML5-dd4b24?logo=html5&logoColor=white" />
+  <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-333?logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-6f13ef?logo=bootstrap&logoColor=white" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000?logo=json&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-4c598d?logo=php&logoColor=white" />
+  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/-Apache-e37521?logo=apache&logoColor=white" />
+  <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-003A70?logo=Let%E2%80%99s%20Encrypt&logoColor=white" /> 
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-333?logo=gnu%20bash&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-002254?logo=powershell&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" />
+  <img alt="SVG" src="https://img.shields.io/badge/-SVG-FFB13B?logo=svg&logoColor=444" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
-
