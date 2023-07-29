@@ -6,7 +6,7 @@ I'm Eduardo, a developer currently living in Florianópolis, SC area, Brazil.
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491e6?logo=docker&logoColor=white" /> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-e94e31?logo=git&logoColor=white" /> 
-  <img alt="GitHub (+API)" src="https://img.shields.io/badge/-GitHub%20(%2BAPI)-24282e?logo=github&logoColor=white" />
+  <!--img alt="GitHub (+API)" src="https://img.shields.io/badge/-GitHub%20(%2BAPI)-24282e?logo=github&logoColor=white" /-->
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="HTML 5" src="https://img.shields.io/badge/-HTML5-dd4b24?logo=html5&logoColor=white" />
   <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-333?logo=css3&logoColor=white" />
